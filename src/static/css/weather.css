@@ -1,0 +1,29 @@
+.weather {
+  border: 1px solid silver;
+  border-radius: 15px;
+  padding: 20px 50px;
+  margin: 30px auto;
+  width: 400px;
+  background-color: whitesmoke;
+  box-shadow: 0 0 silver, 0 10px 20px silver;
+  font: italic 12pt "Trebucht MS";
+}
+
+.data-list {
+  margin-bottom: 30px;
+}
+
+.data-list table {
+  width: 100%;
+  color: gray;
+}
+
+.data-list th {
+  padding: 5px;
+  font: bold italic 11pt "Trebuchet MS";
+}
+
+.data-list td {
+  padding: 5px;
+  font: 11pt "Consolas";
+}

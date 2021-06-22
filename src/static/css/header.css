@@ -1,0 +1,12 @@
+.header {
+  font: italic 13pt 'Trebuchet MS';
+  color: gray;
+}
+
+.header h2 {
+  margin-bottom: 0px;  
+}
+
+.header h3 {
+  margin-top: 10px;  
+}
